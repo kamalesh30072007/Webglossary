@@ -1,0 +1,56 @@
+{
+  "defaults": {
+    "project": 2,
+    "env": 1
+  },
+  "actives": {
+    "project": 2,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "17469000000010077",
+      "name": "tamilsNtechnology",
+      "domain": {
+        "id": "50025927058",
+        "name": "tamilsntechnology-60039899042.development"
+      },
+      "timezone": "Asia/Kolkata",
+      "env": [
+        {
+          "idx": 1,
+          "id": "60039899042",
+          "name": "Development",
+          "type": 3,
+          "env_status": "Active",
+          "project_details": {
+            "project_name": "tamilsNtechnology",
+            "id": "17469000000010077",
+            "project_type": "Live"
+          },
+          "is_default": true,
+          "action_required": false
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "id": "17469000000010123",
+      "name": "tamilstecnology",
+      "domain": {
+        "id": "50025927217",
+        "name": "tamilstecnology-60039899042.development"
+      },
+      "timezone": "Asia/Kolkata",
+      "env": [
+        {
+          "idx": 1,
+          "id": "60039899042",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}
